@@ -76,4 +76,3 @@ localhost:8080/simple-todo-app
 
 ### Author
 [Paweł Gónera](https://www.linkedin.com/in/pawe%C5%82-g%C3%B3nera-87055aa2/)
-
